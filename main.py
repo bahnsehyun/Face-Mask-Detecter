@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 # Touched by bahnse
 # 중복 PR test 1 -> test 2
+# 중간 수정 test 1
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
