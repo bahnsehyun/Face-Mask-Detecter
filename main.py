@@ -5,7 +5,7 @@
 # Touched by bahnse
 # 중복 PR test 1 -> test 2
 # 중간 수정 test 1
-
+# 동일 코드 수정 1111111
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
